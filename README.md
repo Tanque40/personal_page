@@ -1,2 +1,3 @@
-# personal_page
-For the personal and portfolio page
+# Personal Page
+
+My own page as a portfolio and maybe blog for the future
